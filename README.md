@@ -4,7 +4,7 @@ Project Description
 E-Dokan is a comprehensive e-commerce platform built using the MERN stack. It provides users with an efficient interface to explore, search, and purchase products online. Key features include product search, category and brand filtering, price range filtering, sorting options, and Firebase authentication for secure user registration and login.
 
 Frontend
-Live Demo: https://guileless-trifle-921e8c.netlify.app/
+Live Demo: https://e-comerce-singlepage.netlify.app/
 
 Tech Stack:
 
