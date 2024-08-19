@@ -40,7 +40,7 @@ const Home = () => {
     const fetchData = async () => {
       try {
         const response = await axios.get(
-          `http://localhost:5000/AllProduct?page=${page}&limit=${itemsPerPage}&priceValue=${priceValue}&search=${search}&category=${category}&brands=${brands.join(
+          `https://single-page-e-commerce-server-eta.vercel.app/AllProduct?page=${page}&limit=${itemsPerPage}&priceValue=${priceValue}&search=${search}&category=${category}&brands=${brands.join(
             ","
           )}&priceRange=${priceRange}`
         );
